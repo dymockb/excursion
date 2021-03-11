@@ -1,3 +1,44 @@
-h1 {
-	color: red;
+body {
+	background-color: black;
+	font-family: Helvetica;
 }
+
+header, main {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	color: gray;
+}
+
+h2, .downloadLink, #video, #phoneIcon {
+	text-align: center;
+}
+
+figure img {
+	max-width: 100%;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
+
