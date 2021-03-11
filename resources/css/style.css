@@ -17,7 +17,7 @@ h2 {
 	color: gray;
 }
 
-h2, .downloadLink, #video, #phoneIcon {
+h2, .downloadLink, #video, #phoneIcon, figure img {
 	text-align: center;
 }
 
