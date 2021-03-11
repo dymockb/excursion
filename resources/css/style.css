@@ -17,12 +17,19 @@ h2 {
 	color: gray;
 }
 
-h2, .downloadLink, #video, #phoneIcon, figure img {
+h2, .downloadLink, #video {
 	text-align: center;
+}
+
+#phoneIcon {
+	width: 10%;
+	margin: 0 auto;
 }
 
 figure img {
 	max-width: 100%;
+	margin: 0 auto;
+	display: block;
 }
 
 a:link {
